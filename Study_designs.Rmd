@@ -1,0 +1,37 @@
+---
+title: "Study_designs"
+author: "Jacob Mollatt"
+date: "11 11 2021"
+output: html_document
+bibliography: resources/references.bib
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+What was the broader problem the authors are trying to resolve in the study?
+
+Forfatterne i samtlige studier inkludert i denne oppgaven ønsker å bidra til økt kunnskap som kan være med å løse den økende utfordringen med hamstringsskader i idretten, ettersom denne utfordringen har store konsekvenser for både prestasjon og økonomi [@ekstrand2011; @hickey2014; @eirale2013; @hickeyj.2017; @askling2014; @jacobsen2016; @ahamid2014; @askling2013]. Mer spesifikt ønsker tre av studiene å sammenligne hvilken effekt to ulike typer rehabiliteringsprotokoller har på tiden det tar for å returnere til idrett etter en akutt hamstringsskade[@askling2014, @askling2013, @hickheyj.2017]. En annen studie forsøker å se hvilken effekt en enkelt PRP-injeksjon har på rehabiliteringen av en hamstringsskade målt gjennom tid til retur til idrett[@ahamid2014]
+
+What are the specific questions the authors are trying to answer?\
+\
+Is the specific question framed as an hypothesis or a question
+?\
+\
+If the authors have formulated a hypothesis, what alternative explanations can you think of that could potentially explain the data that the authors hypothesiz
+e?\
+\
+What is the logic of the hypothesis or the quest
+ion. Try to create a "line of logic" between the introduction and the question/hypothesis.\
+\
+Describe the study d
+esign. Use Hulley, (2013), Chapters 7-1323 in your ana lysis.\
+Describe the sample and if the study defines the popu lation.\
+Describe the method of recruiting participants to th e study.\
+Did the authors justify their sample size (i.e. did they do a power calc
+ulation)?\
+Describe how the study was conducted (what tests was performed when etc.)\
+Describe the variables in the study, what variables relate to the question/
+hypothesis?\
+What methods did the authors use to make claims (what statistical test
+s were used)
