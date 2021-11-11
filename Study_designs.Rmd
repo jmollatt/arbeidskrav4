@@ -2,8 +2,11 @@
 title: "Study_designs"
 author: "Jacob Mollatt"
 date: "11 11 2021"
-output: html_document
+output:
+word_document: 
+    reference_docx: resources/template.docx
 bibliography: resources/references.bib
+csl: resources/vancouver.csl
 editor_options: 
   markdown: 
     wrap: sentence
@@ -18,8 +21,8 @@ What are the specific questions the authors are trying to answer?\
 Is the specific question framed as an hypothesis or a question
 ?\
 \
-If the authors have formulated a hypothesis, what alternative explanations can you think of that could potentially explain the data that the authors hypothesiz
-e?\
+If the authors have formulated a hypothesis, what alternative explanations can you think of that could potentially explain the data that the authors hypothesi
+ze?\
 \
 What is the logic of the hypothesis or the quest
 ion. Try to create a "line of logic" between the introduction and the question/hypothesis.\
