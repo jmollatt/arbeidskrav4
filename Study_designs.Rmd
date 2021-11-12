@@ -3,6 +3,8 @@ title: "ARBEIDSKRAV 4"
 author: "Jacob Mollatt"
 date: "11-11-2021"
 output:
+  html_document:
+    df_print: paged
   word_document:
     reference_docx: resources/template.docx
 bibliography: resources/references.bib
@@ -50,7 +52,7 @@ Signifikant kortere rehabilitering i gruppen med eksentrisk muskelarbeid og forl
 
 #### Askling, 2014 [@askling2014]
 
-Signifikant kortere rehabilitering i gruppen med eksentrisk muskelarbeid og forlenging av muskulatur(L-protokoll) sammenlignet med den andre konvensjonelle rehabiliteringsgruppen(C-protokoll)(p<0.001, d=−1.21). Gjennomsnittlig tid til til retur til idrett i L-protokoll var 49 dager (1SD±26, range 18--107 dager), sammenlignet med et snitt på 86 dager (1SD±34, range 26--140 dager) i C-protokoll.
+Signifikant kortere rehabilitering i gruppen med eksentrisk muskelarbeid og forlenging av muskulatur(L-protokoll) sammenlignet med den andre konvensjonelle rehabiliteringsgruppen(C-protokoll)(p\<0.001, d=−1.21). Gjennomsnittlig tid til til retur til idrett i L-protokoll var 49 dager (1SD±26, range 18--107 dager), sammenlignet med et snitt på 86 dager (1SD±34, range 26--140 dager) i C-protokoll.
 
 #### Hamid, 2014 [@ahamid2014]
 
@@ -62,7 +64,7 @@ Justert differanse i tid til retur til idrett mellom PRP-gruppen og PPP-gruppen 
 
 ## Konklusjoner
 
-Tre av studiene konkluderte med at de fant en forskjell i effekten de ulike intervensjonene de undersøkte hadde på tid til retur til idrett[@askling2013; @askling2014; @ahamid2014]. To av disse studiene konkluderte med at en rehabiliteringsprotokoll med eksentrisk muskelarbeid og overvekt av forlenging av muskulatur i muskelarbeidet er mer effektivt en konvensjonelle rehabiliteringsøvelser[@askling2013, @askling2014]. Den siste studien konkluderte med at en PRP-injeksjon kombinert med standard rehabilitering hadde større positiv effekt på tid til retur til idrett enn en standard rehabilitering alene[@ahamid2014]. De to siste studiene konkluderte med at det ikke var noen forskjell i effekten de ulike intervensjonene de undersøkte hadde på tid til retur til idrett[@hickey2020, @hamilton2015]. To av studiene inkludert kom til motsvarende konklusjoner, der den ene konkluderte med at en enkelt PRP-injeksjon ikke hadde effekt på tid til retur til idrett, mens den andre konkluderte med at en enkelt PRP-injeksjon hadde positiv effekt på tid til retur til idrett[@hamilton2015, @ahamed2014]. Konklusjoner er oppsummert og fordelt på de ulike studiene under.
+Tre av studiene konkluderte med at de fant en forskjell i effekten de ulike intervensjonene de undersøkte hadde på tid til retur til idrett[@askling2013; @askling2014; @ahamid2014]. To av disse studiene konkluderte med at en rehabiliteringsprotokoll med eksentrisk muskelarbeid og overvekt av forlenging av muskulatur i muskelarbeidet er mer effektivt en konvensjonelle rehabiliteringsøvelser[@askling2013, @askling2014]. Den siste studien konkluderte med at en PRP-injeksjon kombinert med standard rehabilitering hadde større positiv effekt på tid til retur til idrett enn en standard rehabilitering alene[@ahamid2014]. De to siste studiene konkluderte med at det ikke var noen forskjell i effekten de ulike intervensjonene de undersøkte hadde på tid til retur til idrett[@hickey2020, @hamilton2015]. To av studiene inkludert kom til motsvarende konklusjoner, der den ene konkluderte med at en enkelt PRP-injeksjon ikke hadde effekt på tid til retur til idrett, mens den andre konkluderte med at en enkelt PRP-injeksjon hadde positiv effekt på tid til retur til idrett[@hamilton2015, @ahamid2014]. Konklusjoner er oppsummert og fordelt på de ulike studiene under.
 
 #### Hickey, 2020 [@hickey2020]
 
