@@ -21,20 +21,10 @@ Den røde tråden i disse artiklene finner vi igjen i utgangspunktet samtlige fo
 Økt kunnskap leder ofte til økt nysgjerrighet, og tiltak for å ytterlige optimalisere denne rehabiliteringsprosessen vil potensielt kunne gi tydelige fortrinn i toppidretten på flere ulike måter, hvor prestasjon og økonomi skiller seg ut som de to store.
 
 Detaljert karakteristikk på de ulike studiene inkludert finnes i Tabell 1.
-Alle de fem inkuluderte artiklene er designet som randomiserte kontrollerte studier[@askling2014; @askling2013; @hickey.j2017; @ahamid2014; @jacobsen2016]. Deltakerne i studiene er hentet fra en populasjon av voksne idrettsutøvere med akutte hamstringsskader. Tretten ulike idretter er representert, med fotball og friidrett som de to største. Utvalgsstørrelsen varierte fra 24 til 74, med et snitt på 58 deltakere over de fem studiene. Totalt var det 292 deltakere, fordelt me omtrent 9% kvinner og 91%m menn. To av studiene hadde kun mannlige deltakere [@hickey.j2017; @jacobsen2016].
-Alle studiene hadde retur til idrett som utfallsmål.
+Alle de fem inkuluderte artiklene er designet som randomiserte kontrollerte studier[@askling2014; @askling2013; @hickey2020; @ahamid2014; @jacobsen2016]. Den ene studie er en sekundær analyse av en annen randomisert kontrollert studie [@jacobsen2016; @hamilton2015] Deltakerne i studiene er hentet fra en populasjon av voksne idrettsutøvere med akutte hamstringsskader. Tretten ulike idretter er representert, med fotball og friidrett som de to største. Utvalgsstørrelsen varierte fra 24 til 74, med et snitt på 58 deltakere over de fem studiene. Totalt var det 292 deltakere, fordelt me omtrent 9% kvinner og 91%m menn. To av studiene hadde kun mannlige deltakere [@hickey2020; @jacobsen2016].Tre av studiene hadde på forhånd gjort en utregning av ønsket utvalgsstørrelse for en statistisk styrke på 80% [@hickey202; @ahamid2014; @jacobsen2016].
+Alle studiene sammenlignet ulike rehabiliteringsmetoder av akutte hamstringsskader opp mot hverandre med retur til idrett som utfallsmål, med mål om å finne forskjeller i utfallet av de ulike rehabiliteringsmetodene.
+Retur til idrett var definert ulikt i flere av studiene, og inklusjonskriteriene varierte også i stor grad mellom studiene.
+Dette gjør det vanskeligere å sammenligne studiene opp mot hverandre.
 
-What is the logic of the hypothesis or the quest ion.
-Try to create a "line of logic" between the introduction and the question/hypothesis.\
-\
-Describe the study d esign
-. Use Hulley, (2013), Chapters 7-1323 in your ana lysis.\
-Describe the sample and if the study defines the popu lation.\
-Describe the method of recruiting participants to th e study.\
-Did the authors justify their sample size (i.e. did they do a power calc ulati
-on)?\
-Describe how the study was conducted (what tests was performed when etc.)\
-Describe the variables in the study, what variables relate to the question/ hypot
-hesis?\
-What methods did the authors use to make claims (what statistical test s wer
-e used)
+relate to the question/ hypot hesis?\
+What methods did the authors use to make claims (what statistical test s wer e used)
