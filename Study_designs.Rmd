@@ -1,36 +1,46 @@
 ---
 title: "ARBEIDSKRAV 4"
 author: "Jacob Mollatt"
-date: "11 11 2021"
+date: "11-11-2021"
 output:
+  html_document:
+    df_print: paged
+  pdf_document: default
   word_document:
     reference_docx: resources/template.docx
-  pdf_document: default
-  
 bibliography: resources/references.bib
 csl: resources/vancouver.csl
 ---
 
-## Arbeidskrav 3
+```{r eval=TRUE, echo=TRUE, warning=TRUE}
 
-#What was the broader problem the authors are trying to resolve in the study?
-What are the specific questions the authors are trying to answer?\
+```
 
-Forfatterne i samtlige studier inkludert i denne oppgaven ønsker å bidra til økt kunnskap som kan være med å løse den økende utfordringen med hamstringsskader i idretten, ettersom denne utfordringen har store konsekvenser for både prestasjon og økonomi [@ekstrand2011; @hickey2014; @eirale2013; @hickey2020; @askling2014; @jacobsen2016; @ahamid2014; @askling2013]. Forfatterne ønsker å bidra til en økt kunnskap gjennom å formulere ulike spørsmål og sammenligningsgrunnlag. Mer spesifikt ønsker tre av studiene å sammenligne hvilken effekt to ulike typer rehabiliteringsprotokoller har på tiden det tar for å returnere til idrett etter en akutt hamstringsskade[@askling2014, @askling2013, @hickey2020]. En annen studie forsøker å se hvilken effekt en enkelt PRP-injeksjon har på rehabiliteringen av en hamstringsskade målt gjennom tid til retur til idrett[@ahamid2014]. Den siste studien ønsker å undersøke hvilke mulige prognostiske parametre hentet fra den kliniske undersøkelsen etter en hamstringsskade, som kan ha en assosiasjon med tiden til retur til idrett[@jacobsen2016].
+# Studiedesign
 
-Den røde tråden i disse artiklene finner vi igjen i utgangspunktet samtlige forfattere har i den tydelige byrden hamstringsskader har på prestasjon og økonomi i toppidretten[@ekstrand2011; @hickey2014; @eirale2013]. Videre vil kunnskapen vi allerede har, og dagens praksis omkring rehabiliteringen av hamstringsskader være med å påvirke retningen på disse studiene [@brooks2006; @horst2017; @opar2012; @podlog2014].
-Økt kunnskap leder ofte til økt nysgjerrighet, og tiltak for å ytterlige optimalisere denne rehabiliteringsprosessen vil potensielt kunne gi tydelige fortrinn i toppidretten på flere ulike måter, hvor prestasjon og økonomi skiller seg ut som de to store.
+## Formål
 
-## Oppsummert
+What was the broader problem the authors are trying to resolve in the study? What are the specific questions the authors are trying to answer?\
 
-\#Detaljert karakteristikk på de ulike studiene inkludert finnes i Tabell 1.
+Forfatterne i samtlige studier inkludert i denne oppgaven ønsker å bidra til økt kunnskap som kan være med å løse den økende utfordringen med hamstringsskader i idretten, ettersom denne utfordringen har store konsekvenser for både prestasjon og økonomi [@ekstrand2011; @hickey2014; @eirale2013; @hickey2020; @askling2014; @hamilton2015; @ahamid2014; @askling2013]. Forfatterne ønsker å bidra til en økt kunnskap gjennom å formulere ulike spørsmål og sammenligningsgrunnlag. Mer spesifikt ønsker tre av studiene å sammenligne hvilken effekt to ulike typer rehabiliteringsprotokoller har på tiden det tar for å returnere til idrett etter en akutt hamstringsskade[@askling2014, @askling2013, @hickey2020]. De to andre studiene forsøker å se hvilken effekt PRP-injeksjon har på rehabiliteringen av en hamstringsskade målt gjennom tid til retur til idrett[@ahamid2014; @hamilton2015].
 
-Alle de fem inkuluderte artiklene er designet som randomiserte kontrollerte studier[@askling2014; @askling2013; @hickey2020; @ahamid2014; @jacobsen2016]. Den ene studie er en sekundær analyse av en annen randomisert kontrollert studie [@jacobsen2016; @hamilton2015] Deltakerne i studiene er hentet fra en populasjon av voksne idrettsutøvere med akutte hamstringsskader. Tretten ulike idretter er representert, med fotball og friidrett som de to største. Utvalgsstørrelsen varierte fra 24 til 74, med et snitt på 58 deltakere over de fem studiene. Totalt var det 292 deltakere, fordelt me omtrent 9% kvinner og 91%m menn. To av studiene hadde kun mannlige deltakere [@hickey2020; @jacobsen2016].Tre av studiene hadde på forhånd gjort en utregning av ønsket utvalgsstørrelse for en statistisk styrke på 80% [@hickey2020; @ahamid2014; @jacobsen2016].
-Alle studiene sammenlignet ulike rehabiliteringsmetoder av akutte hamstringsskader opp mot hverandre med retur til idrett som utfallsmål, med mål om å finne forskjeller i utfallet av de ulike rehabiliteringsmetodene.
-Retur til idrett var definert ulikt i flere av studiene, og inklusjonskriteriene varierte også i stor grad mellom studiene.
-Dette gjør det vanskeligere å sammenligne studiene opp mot hverandre.
+Den røde tråden i disse artiklene finner vi igjen i utgangspunktet samtlige forfattere har i den tydelige byrden hamstringsskader har på prestasjon og økonomi i toppidretten[@ekstrand2011; @hickey2014; @eirale2013]. Videre vil kunnskapen vi allerede har, og dagens praksis omkring rehabiliteringen av hamstringsskader være med å påvirke retningen på disse studiene [@brooks2006; @horst2017; @opar2012; @podlog2014]. Økt kunnskap leder ofte til økt nysgjerrighet, og tiltak for å ytterlige optimalisere denne rehabiliteringsprosessen vil potensielt kunne gi tydelige fortrinn i toppidretten på flere ulike måter, hvor prestasjon og økonomi skiller seg ut som de to store.
 
-relate to the question/ hypot hesis?\
+## Metodisk sammenligning
+
+Detaljert karakteristikk på de ulike studiene inkludert finnes i Tabell 1.
+
+Alle de fem inkuluderte artiklene er designet som randomiserte kontrollerte studier[@askling2014; @askling2013; @hickey2020; @ahamid2014; @hamilton2015]. Deltakerne i studiene er hentet fra en populasjon av voksne idrettsutøvere med akutte hamstringsskader. Tretten ulike idretter er representert, med fotball og friidrett som de to største. Utvalgsstørrelsen varierte fra 24 til 90, med et snitt på 62 deltakere over de fem studiene. Totalt var det 308 deltakere, kjønnsfordelingen var omtrent 9% kvinner og 91%m menn. To av studiene hadde kun mannlige deltakere [@hickey2020; @jacobsen2016].Tre av studiene hadde på forhånd gjort en utregning av ønsket utvalgsstørrelse for en statistisk styrke på 80% [@hickey2020; @ahamid2014; @hamilton2015]. Alle studiene sammenlignet ulike rehabiliteringsmetoder av akutte hamstringsskader opp mot hverandre med retur til idrett som utfallsmål, med mål om å finne forskjeller i utfallet av de ulike rehabiliteringsmetodene. Retur til idrett var definert ulikt i flere av studiene, og inklusjonskriteriene varierte også i stor grad mellom studiene. Dette gjør det vanskeligere å sammenligne studiene opp mot hverandre.
+
+```{r}
+library(tidyverse)
+library(readxl)
+Tabell1 <- read_excel("resources/Tabell.xlsx")
+
+```
+
+`r Tabell1`.
+
 What methods did the authors use to make claims (what statistical test s wer e used)
 
 ## References
