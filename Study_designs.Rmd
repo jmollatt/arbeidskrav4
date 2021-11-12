@@ -3,10 +3,10 @@ title: "ARBEIDSKRAV 4"
 author: "Jacob Mollatt"
 date: "11-11-2021"
 output:
-  html_document:
-    df_print: paged
   word_document:
     reference_docx: resources/template.docx
+  html_document:
+    df_print: paged
 bibliography: resources/references.bib
 csl: resources/vancouver.csl
 ---
@@ -33,10 +33,10 @@ Alle de fem inkluderte artiklene er designet som randomiserte kontrollerte studi
 library(tidyverse)
 library(readxl)
 Tabell1 <- read_excel("resources/Tabell.xlsx")
-
+View(Tabell1)
 ```
 
-`r Tabell1`.
+`r View(Tabell1)`
 
 ## Resultater
 
