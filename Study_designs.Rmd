@@ -10,10 +10,6 @@ output:
 bibliography: resources/references.bib
 csl: resources/vancouver.csl
 ---
-
-```{r eval=TRUE, echo=TRUE, warning=TRUE}
-```
-
 # Studiedesign
 
 ## Formål
@@ -28,7 +24,7 @@ Detaljert karakteristikk i metoden til de ulike studiene inkludert finnes i Tabe
 
 Alle de fem inkluderte artiklene er designet som randomiserte kontrollerte studier[@askling2014; @askling2013; @hickey2020; @ahamid2014; @hamilton2015]. Deltakerne i studiene er hentet fra en populasjon av voksne idrettsutøvere med akutte hamstringsskader. Tretten ulike idretter er representert, med fotball og friidrett som de to største. Utvalgsstørrelsen varierte fra 24 til 90, med et snitt på 62 deltakere over de fem studiene. Totalt var det 308 deltakere, kjønnsfordelingen var omtrent 9% kvinner og 91% menn. To av studiene hadde kun mannlige deltakere [@hickey2020; @hamilton2015].Tre av studiene hadde på forhånd gjort en utregning av ønsket utvalgsstørrelse for en statistisk styrke på 80% [@hickey2020; @ahamid2014; @hamilton2015]. Alle studiene sammenlignet ulike rehabiliteringsmetoder av akutte hamstringsskader opp mot hverandre med retur til idrett som utfallsmål, med mål om å finne forskjeller i utfallet av de ulike rehabiliteringsmetodene. Retur til idrett var definert ulikt i flere av studiene, og inklusjonskriteriene varierte også i stor grad mellom studiene. Dette gjør det vanskeligere å sammenligne studiene opp mot hverandre.
 
-```{r}
+```{r eval=TRUE, echo=TRUE, warning=TRUE}
 library(tidyverse)
 library(readxl)
 Tabell1 <- read_excel("resources/Tabell.xlsx")
